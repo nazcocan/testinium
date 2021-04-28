@@ -1,0 +1,9 @@
+2021-04-28 21:03:21.637 [main] DEBUG Utilities.Log4j - Test starting opening gittigidiyor.com
+2021-04-28 21:03:24.054 [main] DEBUG Utilities.Log4j - Login test starting
+2021-04-28 21:03:29.101 [main] DEBUG Utilities.Log4j - Login successfully
+2021-04-28 21:03:33.287 [main] DEBUG Utilities.Log4j - Searched successfull 
+2021-04-28 21:03:35.433 [main] DEBUG Utilities.Log4j - 2nd page opening successfully
+2021-04-28 21:03:37.459 [main] DEBUG Utilities.Log4j - Product added to basket successfully
+2021-04-28 21:03:38.731 [main] DEBUG Utilities.Log4j - Amount increase successfully
+2021-04-28 21:03:38.810 [main] DEBUG Utilities.Log4j - Delete operation successfully
+2021-04-28 21:03:38.811 [main] DEBUG Utilities.Log4j - Test closing
